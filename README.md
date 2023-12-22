@@ -4,11 +4,11 @@
 - 🌱 **Interest**: Computational biology, Bioinformatics, Network analysis, and Data visualisation
 - 🔭 **Current projects**: multi-omics analysis
 
-<a href="https://github.com/G708/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=G708&count_private=true&show_icons=true&hide=contribs&theme=vue&repo=github-readme-stats" />
+<a href="https://github.com/G708">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=G708&count_private=true&show_icons=true&hide=contribs&theme=vue&rank_icon=github&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/G708/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G708&hide=html&layout=compact&theme=vue" />
+<a href="https://github.com/G708">
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G708&hide_progress=true&theme=vue&layout=compact" />
 </a>
 
 
