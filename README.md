@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😀 **Occupation**: Project Researcher at [Laboratory of Computational Genomics]("https://nakatolab.iqb.u-tokyo.ac.jp/index.html"), IQB, University of Tokyo
+- 😀 **Current position**: Project Researcher at [Laboratory of Computational Genomics]("https://nakatolab.iqb.u-tokyo.ac.jp/index.html"), IQB, University of Tokyo
 - 🌱 **Interest**: Computational biology, Bioinformatics, Network analysis, and Data visualisation
 - 🔭 **Current projects**: multi-omics analysis
 
